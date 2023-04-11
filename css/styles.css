@@ -1,0 +1,61 @@
+*{
+    font-family: sans-serif;
+    }
+h4,h5,h3,h2,h1{
+    font-weight: 900;
+}
+p{
+    font-weight:600;
+}
+.header{
+    color: #f5f5dc;
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)),url(/image/header.jpeg);
+    padding: 50px;
+    font-size: 100%;
+}
+
+.header p{
+    font-size: 110%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main{
+    width: 80%;
+}
+.more{
+    width: 20%;
+    padding-left: 2%;
+    border-left: solid #ddd 1px;
+}
+
+.align{
+    display: flex;
+    flex-direction: row;
+    margin: auto 3%;
+}
+
+.mycontact i{
+    padding: 3%;
+}
+
+.education>p{
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+.education>h5{
+    padding: 0;
+    margin: 0;    
+}
+
+.mycontact>p{
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+}
+
+.mycontact{
+    display: flex;
+	align-items: center;
+}
