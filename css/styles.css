@@ -11,7 +11,6 @@ p{
     color: #f5f5dc;
     text-align: center;
     background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)),url(https://images.pexels.com/photos/1181243/pexels-photo-1181243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-    background-repeat: no-repeat;
     padding: 50px;
     font-size: 100%;
 }
